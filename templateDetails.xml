@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="1.6" type="template" client="site">
+    <name>skylermedia</name>
+    <creationDate>02-01-11</creationDate>
+    <author>Anthony Pipkin</author>
+    <authorEmail>a.pipkin@skylermedia.com</authorEmail>
+    <authorUrl>http://www.skylermedia.com</authorUrl>
+    <copyright></copyright>
+    <license></license>
+    <version>1.0.0</version>
+    <description>Default Skyler Media template</description>
+
+    <files>
+        <folder>css</folder>
+        <folder>html</folder>
+        <folder>images</folder>
+        <folder>javascript</folder>
+        <folder>fonts</folder>
+        <folder>language</folder>
+        <filename>index.html</filename>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+        <filename>template_preview.png</filename>
+        <filename>template_thumbnail.png</filename>
+        <filename>favicon.ico</filename>
+        <filename>component.php</filename>
+        <filename>error.php</filename>
+    </files>
+
+    <positions>
+        <position>Drawer</position>
+        <position>Top-A</position>
+        <position>Top-B</position>
+        <position>Top-C</position>
+        <position>Top-D</position>
+        <position>Top-E</position>
+        <position>Top-F</position>
+        <position>Header-A</position>
+        <position>Header-B</position>
+        <position>Header-C</position>
+        <position>Header-D</position>
+        <position>Header-E</position>
+        <position>Header-F</position>
+        <position>Navigation</position>
+        <position>Gallery</position>
+        <position>Utility-A</position>
+        <position>Utility-B</position>
+        <position>Utility-C</position>
+        <position>Utility-D</position>
+        <position>Utility-E</position>
+        <position>Utility-F</position>
+        <position>Showcase-A</position>
+        <position>Showcase-B</position>
+        <position>Showcase-C</position>
+        <position>Showcase-D</position>
+        <position>Showcase-E</position>
+        <position>Showcase-F</position>
+        <position>MainTop-A</position>
+        <position>MainTop-B</position>
+        <position>MainTop-C</position>
+        <position>MainTop-D</position>
+        <position>MainTop-E</position>
+        <position>MainTop-F</position>
+        <position>Breadcrumbs</position>
+        <position>ContentTop-A</position>
+        <position>ContentTop-B</position>
+        <position>ContentTop-C</position>
+        <position>ContentRight-A</position>
+        <position>ContentRight-B</position>
+        <position>ContentRight-C</position>
+        <position>ContentBottom-A</position>
+        <position>ContentBottom-B</position>
+        <position>ContentBottom-C</position>
+        <position>ContentLeft-A</position>
+        <position>ContentLeft-B</position>
+        <position>ContentLeft-C</position>
+        <position>MainBottom-A</position>
+        <position>MainBottom-B</position>
+        <position>MainBottom-C</position>
+        <position>MainBottom-D</position>
+        <position>MainBottom-E</position>
+        <position>MainBottom-F</position>
+        <position>Bottom-A</position>
+        <position>Bottom-B</position>
+        <position>Bottom-C</position>
+        <position>Bottom-D</position>
+        <position>Bottom-E</position>
+        <position>Bottom-F</position>
+        <position>Footer-A</position>
+        <position>Footer-B</position>
+        <position>Footer-C</position>
+        <position>Footer-D</position>
+        <position>Footer-E</position>
+        <position>Footer-F</position>
+        <position>Copyright</position>
+    </positions>
+    
+    
+    <config>
+        <fields name="params">
+        </fields>
+    </config>
+</extension>
